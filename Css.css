@@ -1,0 +1,22 @@
+body{
+    background-color: blue;
+    color: white;
+    padding: 0%;
+}
+
+h1{
+    margin-right: auto;
+    padding-top: 5%;
+    text-align: right;
+}
+h2{
+    margin-top: auto;
+    text-align: center;
+}
+header{
+    background: url(https://courses.msqfon.com/wp-content/uploads/2021/03/program-bachelor-of-science-in-computer-science-1920x1080-1.jpg);
+    padding: 2%;
+    background-size: cover;
+    
+    
+}
